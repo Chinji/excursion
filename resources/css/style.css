@@ -1,0 +1,26 @@
+body {
+    background-color: #000;
+    text-align: center;
+    font-family: Verdana;
+
+}
+/*Headings */
+.header--main {
+    font-weight: normal;
+    font-size: 50px ;
+    color: #ffff;
+}
+.header--secondary {
+    font-weight: 300;
+    font-size: 42px ;
+    color: #ffff;    
+}
+.header--subheader {
+    font-size: 21px;
+    color: grey;
+}
+/*links */
+.link--cta {
+    font-size: 36px ;
+    color: aquamarine ;
+}
